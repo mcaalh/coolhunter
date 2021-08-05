@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923094618065",
+    "firebase_url": "https://coolhunter-4ecce-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "coolhunter-4ecce",
+    "storage_bucket": "coolhunter-4ecce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923094618065:android:1f3a37986f85795f305af0",
+        "android_client_info": {
+          "package_name": "com.app.coolhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923094618065-ephk3sv9qknn9upsc4000bu0l7q6dus4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOFBi2o5lWBVy3R0lraOVREC44NpZbjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923094618065-ephk3sv9qknn9upsc4000bu0l7q6dus4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923094618065-ai1eh5afu9v5h7agkjhghrbp4b996r9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.coolhunter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
